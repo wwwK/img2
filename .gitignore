@@ -55,6 +55,7 @@ target/
 
 
 # Local settings
+local_settings.py
 
 # vim
 *.swp
@@ -62,9 +63,9 @@ target/
 # pycharm
 .idea/
 
-# mac os
+# mac
 .DS_Store
 
-# db file
+# hellogithub
 *.db
-
+content*.md
